@@ -12,6 +12,15 @@
 		C2D1FA7920743DC000317023 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2D1FA7720743DC000317023 /* Main.storyboard */; };
 		C2D1FA7B20743DC100317023 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2D1FA7A20743DC100317023 /* Assets.xcassets */; };
 		C2D1FA7E20743DC100317023 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2D1FA7C20743DC100317023 /* LaunchScreen.storyboard */; };
+		C2D1FA8E20743F8300317023 /* dash5.png in Resources */ = {isa = PBXBuildFile; fileRef = C2D1FA8520743F8300317023 /* dash5.png */; };
+		C2D1FA8F20743F8300317023 /* dash1.png in Resources */ = {isa = PBXBuildFile; fileRef = C2D1FA8620743F8300317023 /* dash1.png */; };
+		C2D1FA9020743F8300317023 /* stop.png in Resources */ = {isa = PBXBuildFile; fileRef = C2D1FA8720743F8300317023 /* stop.png */; };
+		C2D1FA9120743F8300317023 /* start.png in Resources */ = {isa = PBXBuildFile; fileRef = C2D1FA8820743F8300317023 /* start.png */; };
+		C2D1FA9220743F8300317023 /* dash2.png in Resources */ = {isa = PBXBuildFile; fileRef = C2D1FA8920743F8300317023 /* dash2.png */; };
+		C2D1FA9320743F8300317023 /* dash0.png in Resources */ = {isa = PBXBuildFile; fileRef = C2D1FA8A20743F8300317023 /* dash0.png */; };
+		C2D1FA9420743F8300317023 /* dash3.png in Resources */ = {isa = PBXBuildFile; fileRef = C2D1FA8B20743F8300317023 /* dash3.png */; };
+		C2D1FA9520743F8300317023 /* Swift4Manga1.zip in Resources */ = {isa = PBXBuildFile; fileRef = C2D1FA8C20743F8300317023 /* Swift4Manga1.zip */; };
+		C2D1FA9620743F8300317023 /* dash4.png in Resources */ = {isa = PBXBuildFile; fileRef = C2D1FA8D20743F8300317023 /* dash4.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +31,15 @@
 		C2D1FA7A20743DC100317023 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C2D1FA7D20743DC100317023 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C2D1FA7F20743DC100317023 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C2D1FA8520743F8300317023 /* dash5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dash5.png; sourceTree = "<group>"; };
+		C2D1FA8620743F8300317023 /* dash1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dash1.png; sourceTree = "<group>"; };
+		C2D1FA8720743F8300317023 /* stop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stop.png; sourceTree = "<group>"; };
+		C2D1FA8820743F8300317023 /* start.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = start.png; sourceTree = "<group>"; };
+		C2D1FA8920743F8300317023 /* dash2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dash2.png; sourceTree = "<group>"; };
+		C2D1FA8A20743F8300317023 /* dash0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dash0.png; sourceTree = "<group>"; };
+		C2D1FA8B20743F8300317023 /* dash3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dash3.png; sourceTree = "<group>"; };
+		C2D1FA8C20743F8300317023 /* Swift4Manga1.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = Swift4Manga1.zip; sourceTree = "<group>"; };
+		C2D1FA8D20743F8300317023 /* dash4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dash4.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +72,15 @@
 		C2D1FA7220743DC000317023 /* Swift4Manga1 */ = {
 			isa = PBXGroup;
 			children = (
+				C2D1FA8A20743F8300317023 /* dash0.png */,
+				C2D1FA8620743F8300317023 /* dash1.png */,
+				C2D1FA8920743F8300317023 /* dash2.png */,
+				C2D1FA8B20743F8300317023 /* dash3.png */,
+				C2D1FA8D20743F8300317023 /* dash4.png */,
+				C2D1FA8520743F8300317023 /* dash5.png */,
+				C2D1FA8820743F8300317023 /* start.png */,
+				C2D1FA8720743F8300317023 /* stop.png */,
+				C2D1FA8C20743F8300317023 /* Swift4Manga1.zip */,
 				C2D1FA7320743DC000317023 /* AppDelegate.swift */,
 				C2D1FA7520743DC000317023 /* ViewController.swift */,
 				C2D1FA7720743DC000317023 /* Main.storyboard */,
@@ -123,8 +150,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				C2D1FA7E20743DC100317023 /* LaunchScreen.storyboard in Resources */,
+				C2D1FA8E20743F8300317023 /* dash5.png in Resources */,
+				C2D1FA9520743F8300317023 /* Swift4Manga1.zip in Resources */,
 				C2D1FA7B20743DC100317023 /* Assets.xcassets in Resources */,
+				C2D1FA9620743F8300317023 /* dash4.png in Resources */,
 				C2D1FA7920743DC000317023 /* Main.storyboard in Resources */,
+				C2D1FA8F20743F8300317023 /* dash1.png in Resources */,
+				C2D1FA9420743F8300317023 /* dash3.png in Resources */,
+				C2D1FA9020743F8300317023 /* stop.png in Resources */,
+				C2D1FA9220743F8300317023 /* dash2.png in Resources */,
+				C2D1FA9320743F8300317023 /* dash0.png in Resources */,
+				C2D1FA9120743F8300317023 /* start.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
