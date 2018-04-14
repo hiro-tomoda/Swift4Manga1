@@ -39,6 +39,7 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
         // テストコメント
+        // テストコメント2
     }
 
     @IBAction func run(_ sender: Any) {
